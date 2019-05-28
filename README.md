@@ -1,2 +1,2 @@
 # Dand
-Data analysis projects
+Data analysis nano degree by udacity projects
